@@ -4,7 +4,7 @@ const talkedRecently = new Set();
 
 module.exports = {
 	name: "uuid",
-	description: "Returns websocket ping",
+	description: "Gives UUID of a Minecraft player",
 	type: 'CHAT_INPUT',
 	options: [
 		{
